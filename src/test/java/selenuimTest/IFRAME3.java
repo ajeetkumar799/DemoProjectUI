@@ -1,4 +1,4 @@
-package collections;
+package selenuimTest;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;

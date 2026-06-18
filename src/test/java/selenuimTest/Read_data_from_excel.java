@@ -8,7 +8,7 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
-public class Read_write_data_from_excel {
+public class Read_data_from_excel {
 	public static String getDataFromExcelSheet(String filePath, String sheetName, int rowNo, int cellNo) throws IOException {
 	    String data = "";
 
